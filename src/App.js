@@ -1,11 +1,10 @@
 import './App.css';
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createBrowserRouter, createHashRouter } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import Home from './components/Home/Home.jsx';
 import Login from "./components/Login/Login";
 import Register from "./components/Register/Register";
 import Cart from "./components/Cart/Cart";
-
 import NotFound from "./components/NotFound/NotFound";
 import CounterContextProvider from './Context/CounterContext';
 import "slick-carousel/slick/slick.css";
