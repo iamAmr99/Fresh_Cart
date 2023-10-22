@@ -74,3 +74,10 @@
     transform: rotate(360deg);
   }
 }
+.cart-product{
+  background-color: whitesmoke;
+  transition: all ease-in-out 0.3s;
+}
+.cart-product:hover {
+  transform: scale(103%);
+}

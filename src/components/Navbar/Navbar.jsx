@@ -30,19 +30,7 @@ export default function Navbar() {
             {userToken !== null ?
               <>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/">Home</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/products">Products</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/categories">Categories</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/brands">Brands</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/brands">Cart</Link>
+                  <Link className="nav-link" to="/cart">Cart</Link>
                 </li>
               </>
               : ''}
