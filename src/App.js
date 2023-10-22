@@ -16,7 +16,7 @@ import  CartContextProvider  from './Context/CartContext';
 import { Toaster } from "react-hot-toast";
 
 
-let routers = createBrowserRouter([
+let routers = createHashRouter([
   {
     path: '/', element: <Layout />, children: [
       { index: true, element: <ProtectedRoute> <Home /> </ProtectedRoute> },
