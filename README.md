@@ -8,7 +8,7 @@ react-router
 formik
 helmet
 yup
-
+react-query
 
 
 
