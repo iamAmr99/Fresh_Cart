@@ -9,7 +9,8 @@ formik
 helmet
 yup
 react-query
-
+hot-toast
+react-slick
 
 
 used email: fimeca5270@dixiser.com
