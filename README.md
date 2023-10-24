@@ -1,4 +1,4 @@
-# React exam
+# Fresh Cart
 
 Targeted website [*link*](https://routeegy.github.io/Ecommerce/)
 
