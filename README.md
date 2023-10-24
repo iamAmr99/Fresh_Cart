@@ -5,6 +5,7 @@ Targeted website [*link*](https://routeegy.github.io/Ecommerce/)
 packages used
 
 react-router
+axios
 formik
 helmet
 yup
