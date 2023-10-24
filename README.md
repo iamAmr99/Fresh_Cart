@@ -4,10 +4,10 @@ Targeted website [*link*](https://routeegy.github.io/Ecommerce/)
 
 packages used
 
-react router
+react-router
 formik
 helmet
-
+yup
 
 
 
