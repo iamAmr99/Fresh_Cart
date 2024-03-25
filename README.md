@@ -24,3 +24,5 @@ used phone: 01111111111
 
 
 ## UPDATE !!!
+
+it seems that there is some vulnerabilities in the react dependencies due to not updating react packages it's best if you used this [*link*]() to preview the website and i you downloading the repo make sure to update the `node_modules` file
