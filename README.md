@@ -1,21 +1,23 @@
 # Fresh Cart
 
+frontend-assignment - ReactJs
+
 Targeted website [*link*](https://routeegy.github.io/Ecommerce/)
 
 packages used
 
-react-router
-axios
-formik
-helmet
-yup
-react-query
-hot-toast
-react-slick
+- react-router
+- axios
+- formik
+- helmet
+- yup
+- react-query
+- hot-toast
+- react-slick
 
 
-used email: fimeca5270@dixiser.com
+use this email for sign-in: fimeca5270@dixiser.com
 
-used password: SLznH5ZPlllll
+password: SLznH5ZPlllll
 
 used phone: 01111111111
